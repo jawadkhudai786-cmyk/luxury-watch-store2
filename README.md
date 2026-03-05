@@ -15,8 +15,4 @@ A premium MERN-style e-commerce application for high-end timepieces.
 2. Backend runs on the same port as the frontend using Vite middleware.
 3. Database is automatically initialized on first run.
 
-## Environment Variables
-- `GEMINI_API_KEY`: For AI features (if any).
-- `JWT_SECRET`: Secret for token signing (defaulted in code if missing).
-
 Designed & Developed by ZAIN PALIJO
